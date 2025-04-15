@@ -1,0 +1,52 @@
+[
+  {
+    "prompt": "Identifikuj zmluvné strany (názvy spoločností, adresy, IČO, DIČ) z extrahovaného textu a prezentuj ich v štruktúrovanej forme.",
+    "avg_llm_time_min": 2.67,
+    "avg_human_time_min": 6.07
+  },
+  {
+    "prompt": "Nájdi dátum uzavretia zmluvy a uveď ho v tvare YYYY-MM-DD.",
+    "avg_llm_time_min": 2.49,
+    "avg_human_time_min": 6.07
+  },
+  {
+    "prompt": "Extrahuj a zhrň predmet zmluvy.",
+    "avg_llm_time_min": 2.52,
+    "avg_human_time_min": 6.07
+  },
+  {
+    "prompt": "Z extrahovaného textu získaj cenu zmluvy, platobné podmienky a IBAN na úhradu.",
+    "avg_llm_time_min": 2.53,
+    "avg_human_time_min": 6.07
+  },
+  {
+    "prompt": "Nájdi v zmluve dodacie podmienky – termíny dodania a podmienky odovzdania diela.",
+    "avg_llm_time_min": 2.81,
+    "avg_human_time_min": 6.07
+  },
+  {
+    "prompt": "Získaj informácie o záručnej dobe a podmienkach poskytovania servisu po dodaní.",
+    "avg_llm_time_min": 2.75,
+    "avg_human_time_min": 6.07
+  },
+  {
+    "prompt": "Vypíš všetky sankcie uvedené v zmluve pre omeškanie s platbou alebo oneskorené dodanie softvéru.",
+    "avg_llm_time_min": 2.69,
+    "avg_human_time_min": 6.07
+  },
+  {
+    "prompt": "Nájdi podmienky ukončenia zmluvy – v akých situáciách môže byť zmluva zrušená?",
+    "avg_llm_time_min": 2.78,
+    "avg_human_time_min": 6.07
+  },
+  {
+    "prompt": "Zisti, akými zákonmi sa riadi táto zmluva a kde sú uvedené právne ustanovenia.",
+    "avg_llm_time_min": 2.7,
+    "avg_human_time_min": 6.07
+  },
+  {
+    "prompt": "Zhrň celú zmluvu do 5 viet, pričom zdôrazni hlavné povinnosti objednávateľa a dodávateľa.",
+    "avg_llm_time_min": 2.63,
+    "avg_human_time_min": 6.07
+  }
+]
